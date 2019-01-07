@@ -7,5 +7,6 @@ int main()
     printf("Enter your number:\n");
     scanf("%d",&a);
     printf("Your number is %d",a);
+    printf("hahaha");
     return 0;
 }
